@@ -1,13 +1,5 @@
-
-.container{
-    .foto{
-        width:1440px;
-        height:650px;
-        h3{
-            background: none;
-            color: white;
-            font-family: Arial, Helvetica, sans-serif;
-        }
-    
-    } 
+@import "./responmix.scss" ;
+*{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
 }
